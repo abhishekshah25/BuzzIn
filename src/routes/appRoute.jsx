@@ -19,7 +19,7 @@ export const AppRoutes = () => {
     <>
       <ScrollToTop />
         <Routes>
-          <Route path="*" element={<Navigate to="/" replace />} />
+          <Route path="/*" element={<Navigate to="/" replace />} />
           <Route path="/" element={<PrivateRoute><Home /></PrivateRoute>} />
           <Route path="/explore" element={<PrivateRoute><Explore /></PrivateRoute>} />
           <Route path="/bookmarks" element={<PrivateRoute><Bookmark /></PrivateRoute>} />
