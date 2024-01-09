@@ -22,7 +22,7 @@ const UserProvider = ({children}) => {
         }
     }
 
-    const getBookmarksHandler = async () => {
+    const getBookmarksHandler = async (token) => {
         try {
             const {data: { bookmarks }, status} = await getBookmarkService(token);
             if(status === 200) {
