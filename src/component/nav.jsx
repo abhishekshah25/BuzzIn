@@ -26,7 +26,7 @@ export const Nav = () => {
   
   const getTitle = () => <div className="app-heading" onClick={() => navigate("/")}>
     <img src="https://res.cloudinary.com/dnagcmyka/image/upload/v1687499676/BuzzShare_2_eosvva.png" className="app-logo" alt="App logo"/>
-    <p className="app-title">BuzzShare</p>
+    <p className="app-title">BuzzIn</p>
   </div>
 
   const getNav = () => <div className="nav-container">

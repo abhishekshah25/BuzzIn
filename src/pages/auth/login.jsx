@@ -13,8 +13,8 @@ export const Login = () => {
   const location = useLocation();
 
   const testUserData = {
-    username: "sanika3103",
-    password: "Sanika123",
+    username: "Abhishek1601",
+    password: "Abhishek123",
   };
 
   const { loginHandler, token } = useAuth();
