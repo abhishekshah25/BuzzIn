@@ -13,7 +13,7 @@ export const posts = [
       "useContext (React hook) helps access global data without having to pass props again and again (prop drilling) within the same file-based React application.",
     postImage: "",
     likes: {
-      likeCount: 2,
+      likeCount: 5,
       likedBy: [],
       dislikedBy: [],
     },
@@ -33,7 +33,7 @@ export const posts = [
         updatedAt: formatDate(),
       }
     ],
-    createdAt: "2023-06-04T10:06:52+05:30",
+    createdAt: "2023-11-11T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -51,7 +51,7 @@ export const posts = [
     username: "caleb1601",
     profileAvatar: "https://res.cloudinary.com/dnagcmyka/image/upload/v1687289188/832_ejd4g7.jpg",
     comments: [],
-    createdAt: "2023-06-26T10:06:52+05:30",
+    createdAt: "2023-12-26T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -92,7 +92,7 @@ export const posts = [
         updatedAt: formatDate(),
       },
     ],
-    createdAt: "2023-05-19T10:06:52+05:30",
+    createdAt: "2023-10-19T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -144,7 +144,7 @@ export const posts = [
         updatedAt: formatDate(),
       }
     ],
-    createdAt: "2023-05-09T10:06:52+05:30",
+    createdAt: "2023-12-17T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -183,7 +183,7 @@ export const posts = [
         updatedAt: formatDate(),
       },
     ],
-    createdAt: "2023-04-30T10:06:52+05:30",
+    createdAt: "2023-11-29T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -201,7 +201,7 @@ export const posts = [
     username: "benjamin1601",
     profileAvatar: "https://res.cloudinary.com/dnagcmyka/image/upload/v1687289094/60111_oliiv2.jpg",
     comments: [],
-    createdAt: "2023-03-14T10:06:52+05:30",
+    createdAt: "2023-09-14T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -242,7 +242,7 @@ export const posts = [
         updatedAt: formatDate(),
       },
     ],
-    createdAt: "2023-03-06T10:06:52+05:30",
+    createdAt: "2023-10-16T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -272,7 +272,7 @@ export const posts = [
         updatedAt: formatDate(),
       },
     ],
-    createdAt: "2023-02-28T10:06:52+05:30",
+    createdAt: "2023-12-28T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -301,7 +301,7 @@ export const posts = [
         updatedAt: formatDate(),
       },
     ],
-    createdAt: "2023-07-04T10:06:52+05:30",
+    createdAt: "2023-10-24T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -340,7 +340,7 @@ export const posts = [
         updatedAt: formatDate(),
       }
     ],
-    createdAt: "2023-02-28T10:06:52+05:30",
+    createdAt: "2023-12-20T10:06:52+05:30",
     updatedAt: formatDate(),
   },
   {
@@ -358,7 +358,7 @@ export const posts = [
     username: "sophia1601",
     profileAvatar: "https://res.cloudinary.com/dnagcmyka/image/upload/v1687290411/39551_xgxenv.jpg",
     comments: [],
-    createdAt: "2023-02-07T10:06:52+05:30",
+    createdAt: "2023-10-07T10:06:52+05:30",
     updatedAt: formatDate(),
   }
 ];

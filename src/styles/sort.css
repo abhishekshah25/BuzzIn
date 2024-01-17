@@ -1,6 +1,6 @@
 .sort-filter-container {
   justify-content: stretch;
-  background-color: #171e35;
+  background-color: #3E3E3B;
   padding: 0.5rem 1rem;
   border-bottom: 1px solid white;
 }
@@ -15,12 +15,12 @@
   font-size: 16px;
   color: white;
   border: none;
-  background-color: #171e35;
+  background-color: #3E3E3B;
   padding: 0.5rem;
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 .selected {
-  background-color: #2a3761;
+  background-color: #010F0B;
 }

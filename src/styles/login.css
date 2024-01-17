@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #171e35;
+    color: #3E3E3B;
 }
 
 .login-page {
@@ -30,9 +30,9 @@
     font-size: 16px;
     padding: 0.3rem;
     margin: 0.5rem 0;
-    background-color: #171e35;
+    background-color: #3E3E3B;
     color: white;
-    border: 1.5px solid #171e35;
+    border: 1.5px solid #3E3E3B;
     border-radius: 0.4rem;
 }
 
@@ -42,7 +42,7 @@
     font-size: 16px;
     padding: 0.3rem;
     margin: 0.5rem 0;
-    border: 1.5px solid #171e35;
+    border: 1.5px solid #3E3E3B;
     border-radius: 0.4rem;
 }
 
@@ -51,7 +51,7 @@
 }
 
 .login-as-guest:hover {
-    background-color: #171e35;
+    background-color: #3E3E3B;
     color: white;
 }
 
@@ -85,7 +85,7 @@
 
 .signup-link {
     text-decoration: none;
-    color: #171e35;
+    color: #3E3E3B;
 }
 
 .signup-link:hover {

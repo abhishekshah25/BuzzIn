@@ -8,7 +8,7 @@
   overflow-y: auto;
   border-left: 1px solid white;
   border-right: 1px solid white;
-  background-color: #171e35;
+  background-color: #3E3E3B;
 }
 
 .single-post-container::-webkit-scrollbar {
@@ -44,9 +44,9 @@
 
 .comment-text {
   width: 23.5rem;
-  background-color: #171e35;
+  background-color: #3E3E3B;
   border: none;
-  outline: #171e35;
+  outline: #3E3E3B;
   color: white;
 }
 

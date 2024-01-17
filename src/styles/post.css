@@ -1,7 +1,7 @@
 .individual-post-container {
   border-bottom: 1px solid white;
   padding: 1rem;
-  background-color: #171e35;
+  background-color:#3E3E3B;
   position: relative;
   cursor: pointer;
 }                                                                                                                                                                                                                                                                                           
@@ -74,7 +74,7 @@
 .options-box button {
   font-size: 15px;
   text-align: left;
-  background-color: #2a3761;
+  background-color: #3E3E3B;
   border: none;
   color: white;
   padding: 0.5rem 0.7rem;
@@ -82,7 +82,7 @@
 }
 
 .options-box button:hover {
-  background-color: #222c4e;  
+  background-color: #3E3E3B;  
 }
 
 .edit {

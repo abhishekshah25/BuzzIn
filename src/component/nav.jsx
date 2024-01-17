@@ -9,7 +9,7 @@ import "../styles/nav.css";
 import { useUser } from "../contexts/userContext";
 
 const activeStyle = {
-  backgroundColor: "#171e35",
+  backgroundColor: "#3E3E3B",
   borderRadius: "2rem",
   width: "max-content"
 };
