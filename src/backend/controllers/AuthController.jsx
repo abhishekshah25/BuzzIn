@@ -49,7 +49,7 @@ export const signupHandler = function (schema, request) {
     const createdUser = schema.users.create(newUser);
     const encodedToken = sign(
       { _id, username },
-      process.env.REACT_APP_JWT_SECRET
+      "D428D715E440367121D7DF9BE40FE5C4D1C4A15294DC06381D89DCDDF1D65015"
     );
     return new Response(201, {}, { createdUser, encodedToken });
   } catch (error) {
@@ -87,7 +87,7 @@ export const loginHandler = function (schema, request) {
     if (password === foundUser.password) {
       const encodedToken = sign(
         { _id: foundUser._id, username },
-        process.env.REACT_APP_JWT_SECRET
+        "D428D715E440367121D7DF9BE40FE5C4D1C4A15294DC06381D89DCDDF1D65015"
       );
       return new Response(200, {}, { foundUser, encodedToken });
     }
