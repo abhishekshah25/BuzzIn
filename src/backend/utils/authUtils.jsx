@@ -6,7 +6,7 @@ export const requiresAuth = function (request) {
   const encodedToken = request.requestHeaders.authorization;
   const decodedToken = jwtDecode(
     encodedToken,
-    process.env.REACT_APP_JWT_SECRET
+    "D428D715E440367121D7DF9BE40FE5C4D1C4A15294DC06381D89DCDDF1D65015"
   );
   if (decodedToken) {
     const user = this.db.users.findBy({ username: decodedToken.username });
