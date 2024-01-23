@@ -10,7 +10,7 @@ export const posts = [
   {
     _id: uuid(),
     content:
-      "useContext (React hook) helps access global data without having to pass props again and again (prop drilling) within the same file-based React application.",
+      "Leh & Ladakh Trip in Winters? Let's do it!",
     postImage: "",
     likes: {
       likeCount: 5,
@@ -24,7 +24,7 @@ export const posts = [
     comments: [
       {
         _id: uuid(),
-        comment: "Thanks for sharing!",
+        comment: "Indeed!",
         firstName: "Caleb",
         lastName: "Reynolds",
         username: "caleb1601",
