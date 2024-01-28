@@ -1,1 +1,1 @@
-This template.
+A social media web application.
