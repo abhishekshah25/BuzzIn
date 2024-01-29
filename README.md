@@ -8,25 +8,25 @@ Frontend (React)
 
 Key Features:
 
-> React Components: Modular components are used to structure the user interface and manage state.
-> React Router: Navigation within the application is handled using React Router for seamless page transitions.
-> Axios: Axios is utilized for making HTTP requests to the backend API endpoints.
+React Components - Modular components are used to structure the user interface and manage state.
+React Router - Navigation within the application is handled using React Router for seamless page transitions.
+Axios - Axios is utilized for making HTTP requests to the backend API endpoints.
 
 Backend (MirageJS)
 
 Key Features:
 
-> Routes and Controllers: MirageJS provides a way to define routes and controllers to handle HTTP requests.
-> Data Models: MirageJS allows us to define data models and seed the mock database with sample data for testing purposes.
-> Middleware: Middleware functions can be implemented to intercept and modify requests and responses.
+Routes and Controllers - MirageJS provides a way to define routes and controllers to handle HTTP requests.
+Data Models - MirageJS allows us to define data models and seed the mock database with sample data for testing purposes.
+Middleware - Middleware functions can be implemented to intercept and modify requests and responses.
 
 Deployment (Vercel)
 
 Key Features:
 
-> Automatic Deployments: Changes pushed to the GitHub repository trigger automatic deployments on Vercel, ensuring the latest version of the application is always live.
-> Environment Variables: Vercel supports environment variables for configuring application settings and API endpoints.
-> Custom Domains: Custom domains can be configured to point to the deployed application for a branded experience.
+Automatic Deployments - Changes pushed to the GitHub repository trigger automatic deployments on Vercel, ensuring the latest version of the application is always live.
+Environment Variables - Vercel supports environment variables for configuring application settings and API endpoints.
+Custom Domains - Custom domains can be configured to point to the deployed application for a branded experience.
 
 Functionality:-
 
