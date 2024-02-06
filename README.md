@@ -1,4 +1,4 @@
-![Screenshot 2024-02-07 00 34 48](https://github.com/abhishekshah25/BuzzIn/assets/147745895/47ff416a-7496-4619-8ef9-7f35395deb69)
+![Screenshot 2024-02-07 00 34 48](https://github.com/abhishekshah25/BuzzIn/assets/147745895/06912171-854b-4d40-8b22-58e373d03635)
 
 
 Welcome to BuzzIn! 
